@@ -1,14 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
 
 
 from flask import Flask, render_template, request,jsonify
 import pickle
 import numpy as np
-#import streamlit as st
-# Load the
+
 filename = 'Ipl_first_innings_score_prediction_model.pkl'
 model = pickle.load(open(filename, 'rb'))#opening it in the read mode
 
