@@ -74,7 +74,7 @@ def predict():
 
 
 if __name__ == '__main__':
-	    app.run(debuf = True)
+	    app.run(debug = True)
 
 
 # In[ ]:
