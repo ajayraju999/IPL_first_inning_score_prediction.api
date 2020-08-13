@@ -1,3 +1,4 @@
+![ ](readme_images/ipl_@.jpg)
 # IPL First Innings Score Predictor - Deployment
 * In this repository all files are added which are required for the deployment of the webapp.
 * If you want to view the deployed model, click on the following link here :https://first-innings-score-predictor.herokuapp.com/
@@ -35,6 +36,12 @@ among these linear_regresion performed well ,so that was taken into the consider
 #  Features and Label Used
 * features:{date,venue,bat_team,bowl_team,runs,wickets,overs,runs_last_6, wickets_last_6}
 * label:{ total}
+![ ](readme_images/Webp.net-resizeimage.jpg)
+
+
+
+# The End
+![ ](readme_images/Empire.jpg)
 
 
 
