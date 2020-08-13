@@ -45,6 +45,11 @@ among these linear_regresion performed well ,so that was taken into the consider
 
 
 
+##### My gratitude to Krish Sir for his guidance through his youtube channel 🙌.
+##### My gratitude to Anuj vyas sir for providing his open source repository which helped me of getting a basic idea and motivated me off doing  this project🙌.  
+
+
+
 
 
 
