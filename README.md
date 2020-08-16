@@ -44,7 +44,7 @@ among these linear_regresion performed well ,so that was taken into the consider
 ![ ](readme_images/Empire.jpg)
 
 
-
+##### My sincere thanks to My mentor Kushal Sharma 🙌
 ##### My sincere thanks to Krish Naik sir for his guidance through his youtube channel 🙌.
 ##### My sincere to Anuj Vyas for providing his open source repository which helped me of getting a basic idea and motivated me off doing  this project🙌.  
 
